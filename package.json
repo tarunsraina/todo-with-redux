@@ -1,12 +1,13 @@
 {
   "name": "todo-demo",
-  "homepage": "https://tarunsraina.github.io/todo-demo",
+  "homepage": "https://tarunsraina.github.io/todo-with-redux",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
     "react-scripts": "1.0.7"
   },
   "dependencies": {
+    "gh-pages": "^5.0.0",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "react-redux": "^5.0.5",
